@@ -1,0 +1,6 @@
+a=int(input ())
+B=int(input ())
+if(a>b):
+Print("a is greater");
+Else:
+Print("a is small");

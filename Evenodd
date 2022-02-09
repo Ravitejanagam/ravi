@@ -1,0 +1,6 @@
+a=int(input ())
+B=int(input ()) 
+If(a%2==0):
+Print("a is even")
+Else:
+Print("a is odd")
